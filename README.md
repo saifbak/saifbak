@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saifbak
 - 👀 I’m interested in Mobile Development
-- 🌱 I’m currently learning Flutter & Laravel
+- 🌱 I’m currently learning Python & AI
 - 💞️ I’m currently working on Enorness Pvt Ltd.
 - 📫 How to reach me? skype me on : saifbinabdulkarim
 
