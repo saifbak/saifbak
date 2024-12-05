@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @saifbak
-- 👀 I’m interested in Mobile Development
+- 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning Python & AI
-- 💞️ I’m currently working on Enorness Pvt Ltd.
+- 💞️ I’m currently working on Softbuilders Software Designs
 - 📫 How to reach me? skype me on : saifbinabdulkarim
 
 <!---
