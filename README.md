@@ -18,8 +18,7 @@ Welcome to my GitHub profile! I’m a dedicated and enthusiastic full stack deve
 ### 📬 Let's Connect
 
 - 💬 **Skype:** [saifbinabdulkarim](skype:saifbinabdulkarim?chat)
-- 📧 **Email:** [Add your email here if you'd like]
-- 🌐 **Portfolio/Website:** [Add your website link here if you have one]
+- 📧 **Email:** [saifabdulkarim.ae@gmail.com]
 
 ---
 
