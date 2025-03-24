@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I’m a dedicated and enthusiastic full stack deve
 
 ### 👨‍💻 About Me
 
-- 💼 **Currently working at** [Softbuilders Software Designs](#)
+- 💼 **Currently working at** [Softbuilders Software Designs](https://softbuilders.ae)
 - 🔍 **Areas of Interest:** Full Stack Development, Cloud Architecture, AI & Machine Learning
 - 📚 **Currently Exploring:** Python, AI/ML, and cutting-edge backend technologies
 - 💡 **Tech Stack:** JavaScript / TypeScript · React · React Native · Next.js · Node.js · NestJS · MongoDB · MySQL · Docker · Git
@@ -19,15 +19,6 @@ Welcome to my GitHub profile! I’m a dedicated and enthusiastic full stack deve
 
 - 💬 **Skype:** [saifbinabdulkarim](skype:saifbinabdulkarim?chat)
 - 📧 **Email:** [saifabdulkarim.ae@gmail.com]
-
----
-
-### 📈 GitHub Stats *(optional section)*
-<!-- Uncomment the lines below if you want to display GitHub stats -->
-<!--
-![Saif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saifbak&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saifbak&layout=compact&theme=radical)
--->
 
 ---
 
